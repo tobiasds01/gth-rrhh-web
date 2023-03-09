@@ -7,26 +7,33 @@ A lo largo de este documento haremos un análisis de las decisiones visuales tom
 
 ## Página Web
 #### Presentación
-Al entrar encontramos el nombre de la empresa con su lema, mostrando las marcas que confían en nosotros para dar credibilidad al usuario. 
+Al entrar encontramos el nombre de la empresa con su lema, mostrando las marcas que confían en ella para dar credibilidad al usuario. 
+
 ![Imagen del inicio](imagenes_readme/inicio.png)
+
 #### Servicios
 Continuamos con el mismo formato, presentando nuestra visión y valores. Además presentamos los servicios que brinda la empresa para el usuario. 
+
 ![Imagen de los servicios](imagenes_readme/servicios.png)
+
 #### Equipo
 Seguimos con la presentación del equipo que trabaja en la consultora, las figuras más importantes con las que el usuario debe familiarizarse.
+
 ![Imagen del equipo](imagenes_readme/equipo.png)
+
+#### Contacto
 Concluímos con un footer donde pueden contactarse con la empresa, todo dentro de una sola página de inicio.
 
 ## Decisiones Técnicas
 
 Decidí colocar todo dentro de una sola página para que así sea más sencillo para el usuario. Al no tener que navegar por distintas pestañas, puede conseguir lo que quiere sin perderse. Además, el diseño responsive de la misma permite visualizarla desde distintos dispositivos, haciendo una experiencia agradable en todas las posibles formas de ingresar. 
-En el header tenemos una barra de navegación con la propiedad Sticky para que el usuario pueda navegar fácilmente a través de toda la página web. La misma cuenta con el logo de la empresa y los links necesarios para desplazarse por la web.
+En el header tenemos una barra de navegación con la propiedad Sticky para que el usuario pueda navegar fácilmente a través de toda la página web. La misma cuenta con el logo de la empresa y los links necesarios para desplazarse por ella.
 
 ![Imagen responsive](imagenes_readme/responsive.png)
 
 ## Decisiones visuales
 
-La paleta de colores surge del mismo logo de la empresa, por lo que las utilicé para darle vida a la web. Utilivé texto encima de imágenes con los colores de la empresa así se logra que la página no sea plana. En los valores tomé varios iconos en representación de ellos para lograr una distinción más clara.
+La paleta de colores surge del mismo logo de la empresa, por lo que la utilicé para darle vida a la web. Usé texto encima de imágenes con esta paleta así se logra que la página no sea plana. En los valores tomé varios iconos en representación de ellos para lograr una distinción más clara.
 
 ![Imagen de la visión](imagenes_readme/vision.png)
 
@@ -34,9 +41,9 @@ En la oferta de servicios más concreta, los diferenciamos con distintas imágen
 
 ![Imagen de las ofertas](imagenes_readme/ofertas.png)
 
-Por último, tenemos el footer con un color naranja para romper con tanto fondo blanco y diferenciarlo bien. En este caso tenemos el logo en negativo para que se entienda bien, y el teléfono y redes sociales en negro, para que se entienda que es allí donde debemos dirigir la mirada. Se diferencia del logo, con el cual no se puede interactuar.
+Por último, tenemos el footer con un color naranja para romper con tanto fondo blanco y diferenciarlo bien. En este caso tenemos el logo en negativo para visualizarlo correctamente, y el teléfono y redes sociales en negro, para que se entienda que es allí donde debemos dirigir la mirada. Se diferencia del logo, con el cual no se puede interactuar.
 
-![Imagen del footer](imagenes_readme/vision.png)
+![Imagen del footer](imagenes_readme/footer.png)
 
 ## Conclusión
 
